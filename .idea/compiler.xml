@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="saga-pattern.service_1" options="-parameters" />
+      <module name="saga-pattern.service_1.main" options="-parameters" />
+      <module name="saga-pattern.service_1.test" options="-parameters" />
+      <module name="saga-pattern.service_2" options="-parameters" />
+      <module name="saga-pattern.service_2.main" options="-parameters" />
+      <module name="saga-pattern.service_2.test" options="-parameters" />
+      <module name="saga-pattern.service_3" options="-parameters" />
+      <module name="saga-pattern.service_3.main" options="-parameters" />
+      <module name="saga-pattern.service_3.test" options="-parameters" />
+    </option>
+  </component>
+</project>
